@@ -4,7 +4,7 @@ Movie Time is an application to browse trending, popular, now playing and top ra
 The application also allows to search for movies, TV shows, cast, etc.
 The app uses `React` with `Redux` for state management. `TMDB API` is used to fetch data.
 
-
+It provides all the latest updates of any movie or star-cast you,require of any particular movie.
 
 ## Build Setup
 
