@@ -1,6 +1,6 @@
 # Movie Gallery
 
-Movie Time is an application to browse trending, popular, now playing and top rated movies and TV shows.
+Movie Gallery is an application to browse trending, popular, now playing and top rated movies and TV shows.
 The application also allows to search for movies, TV shows, cast, etc.
 The app uses `React` with `Redux` for state management. `TMDB API` is used to fetch data.
 
