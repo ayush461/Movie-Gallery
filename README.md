@@ -1,4 +1,4 @@
-# Movie Time
+# Movie Gallery
 
 Movie Time is an application to browse trending, popular, now playing and top rated movies and TV shows.
 The application also allows to search for movies, TV shows, cast, etc.
